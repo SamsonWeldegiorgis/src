@@ -21,7 +21,11 @@ Ex:
         String str2 = "";
         for (int i = 0; i < str.length(); i++) {
             if(str.charAt(i) == ' ') {
+<<<<<<< HEAD
                 str2 += ("" + str.charAt(i+1)).toUpperCase();
+=======
+                str2 += (" " + str.charAt(i+1)).toUpperCase();
+>>>>>>> github/master
                 i++;
             } else {
                 str2 += str.charAt(i);

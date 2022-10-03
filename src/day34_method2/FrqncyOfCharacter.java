@@ -28,9 +28,3 @@ Ex:	Input:		aabbaacca, a	Output:  5
         }return count;
     }
 }
-
-
-///////////////////Saim's way  /////////////////////
-
-
-
